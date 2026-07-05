@@ -18,7 +18,7 @@ An automated real-time forensic gateway and predictive network IDS.
 
 ## Screenshots
 ### System Interface
-![Forensic Gateway Interface](Demo/Screenshot.png)
+![Forensic Gateway Interface](Demo/Dashboard.png)
 
 ## Author
 Faaiza Mir | BS Cyber Forensics & Security | Air University Islamabad
