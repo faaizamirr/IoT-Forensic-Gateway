@@ -16,8 +16,7 @@ An automated real-time forensic gateway and predictive network IDS.
 ## Demo
 [Demo Video](https://drive.google.com/file/d/1GPZUzblg9Xwm6AhDZhawA6TVFSPaagrl/view?usp=sharing)
 
-## Screenshots
-### System Interface
+## System Interface
 ![Forensic Gateway Interface](Demo/Dashboard.png)
 
 ## Author
